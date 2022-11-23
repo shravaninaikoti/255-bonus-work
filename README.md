@@ -32,3 +32,11 @@ Link: https://www.kaggle.com/code/vad13irt/plant-disease-classification/data
 5. If you get any module not found error try installing the module using: >pip3 install <module_name>
 
 6. After successful execution, copy the local host link and run it in the browser.
+
+#Working
+
+1. On the home page you can observe an animation with predict disease button
+
+2. On clicking predict disease, you will be asked to give an image of plant leaf as input.
+
+3. After selecting the image and clicking of predict, the model will be hit and the predicted disease will be displayed along with it's description.
