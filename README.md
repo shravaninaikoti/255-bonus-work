@@ -19,4 +19,16 @@ Datasets used:
 Link: https://www.kaggle.com/code/vad13irt/plant-disease-classification/data
 
 
+#Deployment steps:
 
+1. fork the repository using the github link
+
+2. https://github.com/shravaninaikoti/255-bonus-work
+
+3. In command prompt change the working directory to 255-bonus-work directory
+
+4. Run the following command: >python3 app.py
+
+5. If you get any module not found error try installing the module using: >pip3 install <module_name>
+
+6. After successful execution, copy the local host link and run it in the browser.
