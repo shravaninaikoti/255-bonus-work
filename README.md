@@ -1,22 +1,18 @@
 # 255_bonous_work_plant_disease_classification
 
-Steps:
-
-1. Train the model on different plant disease images 
-
-2. save the model in .pb format 
-
-3. Convert a TensorFlow Model to OpenVINO IR Format
-
-4. Creating Rest API at backend to hit the model and get results.
-
 Task steps used:
 
-1. Open vino for model convertion
+1. data collection of plant disease images
 
-2. Flask at backend to hit the model
+2. data interpretation and preprocessing
 
-3. web application creation to display results.
+3. train different models on the plant disease images and pick the model with best performance
+
+4. save the model in .pb format 
+
+5. Creating Rest API using Flask at backend to hit the model and get results.
+
+6. web application creation to display results.
 
 Datasets used: 
 
