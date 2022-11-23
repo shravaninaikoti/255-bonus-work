@@ -37,6 +37,12 @@ Link: https://www.kaggle.com/code/vad13irt/plant-disease-classification/data
 
 1. On the home page you can observe an animation with predict disease button
 
+![alt text](https://github.com/shravaninaikoti/255-bonus-work/blob/main/Screenshots/Screenshot%20(17).png?raw=true)
+
 2. On clicking predict disease, you will be asked to give an image of plant leaf as input.
 
+![alt text](https://github.com/shravaninaikoti/255-bonus-work/blob/main/Screenshots/Screenshot%20(19).png?raw=true)
+
 3. After selecting the image and clicking of predict, the model will be hit and the predicted disease will be displayed along with it's description.
+
+![alt text](https://github.com/shravaninaikoti/255-bonus-work/blob/main/Screenshots/Screenshot%20(20).png?raw=true)
